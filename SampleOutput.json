@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "\"48 Hours\" schedule: Live, DVR, and on demand",
+            "description": "True crime. Real justice. To miss it would be a crime.",
+            "url": "https://www.cbsnews.com/48-hours/episode-schedule/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/22/23f1bcdf-10e4-46e5-914c-8b0bfca1a801/thumbnail/1200x630/029a84c9bdee7c9364620d11e3c20150/48hrs-thumbprint.jpg?v=3d62f4cc0092e6eb151a9685301ed284",
+            "publishedAt": "2024-03-31T06:17:00+00:00",
+            "content": "True crime. Real justice.  \"48 Hours\" is the one to watch Saturday nights. To miss it would be a crime. \r\nOur 36th season premiered Saturday, Sept. 16, 2023.\r\nHOW TO WATCH:\r\nPROGRAM NOTE\r\nWho Poisone… [+11218 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Claire Nichols, Cassie McCullagh, Nicola Heath, Declan Fry",
+            "title": "The best new books released in March, as selected by avid readers and critics",
+            "description": "Our favourite new reads include pacy crime fiction from one of Australia's top journalists, a timely reimagining of an American masterpiece and an examination of gender by a ground-breaking philosopher.",
+            "url": "https://www.abc.net.au/news/2024-03-30/best-new-books-march-judith-butler-louise-milligan/103644572",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/629ddad36169bc7fc6c596c58c7d822f?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-03-29T19:00:03Z",
+            "content": "Welcome to ABC Arts' monthly book column: a shortlist of new releases read and recommended by The Book Show's Claire Nichols, The Bookshelf's Cassie McCullagh, ABC Arts' Nicola Heath and critic Decla… [+17410 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "The Death Penalty Is Important for America",
+            "description": "The death penalty has rightfully been used for heinous crimes, murder, and treason throughout our nation's history.",
+            "url": "https://www.newsweek.com/death-penalty-important-america-opinion-1884340",
+            "urlToImage": "https://d.newsweek.com/en/full/2369151/american-flag-flies.jpg",
+            "publishedAt": "2024-03-28T15:05:12Z",
+            "content": "In America, the death penalty has been an effective form of punishment for certain crimes since the founding of our nation. The Supreme Courtruled in the 1976 Gregg v. Georgia decision that the death… [+4169 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        },
+        {
+            "source": {
+                "id": "reddit-r-all",
+                "name": "Reddit /r/all"
+            },
+            "author": "Contributors to Wikimedia projects",
+            "title": "Japanese war crime",
+            "description": null,
+            "url": "https://en.wikipedia.org/wiki/Hundred_man_killing_contest",
+            "urlToImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/Contest_To_Cut_Down_100_People.jpg",
+            "publishedAt": "2005-10-03T07:56:05Z",
+            "content": "The Tokyo Nichi Nichi Shimbun's news coverage of the contest on 13 December 1937. Mukai (left) and Noda (right). The bold headline reads, \"'Incredible Record' [in the Contest to] Behead 100 PeopleMuk… [+11981 chars]"
+        }
+    ]
+}
