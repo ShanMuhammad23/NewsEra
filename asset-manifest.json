@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShanMuhammad23/NewsEra.git/static/css/main.25433d63.css",
+    "main.js": "/ShanMuhammad23/NewsEra.git/static/js/main.6d62c958.js",
+    "static/js/453.06bbd0c4.chunk.js": "/ShanMuhammad23/NewsEra.git/static/js/453.06bbd0c4.chunk.js",
+    "static/media/Spinner.gif": "/ShanMuhammad23/NewsEra.git/static/media/Spinner.a658d367e84ec112d01b.gif",
+    "index.html": "/ShanMuhammad23/NewsEra.git/index.html",
+    "main.25433d63.css.map": "/ShanMuhammad23/NewsEra.git/static/css/main.25433d63.css.map",
+    "main.6d62c958.js.map": "/ShanMuhammad23/NewsEra.git/static/js/main.6d62c958.js.map",
+    "453.06bbd0c4.chunk.js.map": "/ShanMuhammad23/NewsEra.git/static/js/453.06bbd0c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25433d63.css",
+    "static/js/main.6d62c958.js"
+  ]
+}
